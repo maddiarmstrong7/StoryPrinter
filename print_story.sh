@@ -1,4 +1,4 @@
 #!/bin/bash
 
-python fetch.py > story.txt
+python3 fetch.py > story.txt
 lpr story.txt
